@@ -9,6 +9,7 @@ class Item:
     # ONLY CHANGE IS THIS COMMENT HOW TO REMOVE AND REPUSH?
     def __str__(self):
         return "Hello World! Testing here!" # and this is different
+    # ADDING ANOTHER CHANGE TO SEE IF RE-PUSHING WILL GIVE CHANGES W/O MESSING UP GITHUB
 
     def condition_description(self):
         if self.condition < 0:
